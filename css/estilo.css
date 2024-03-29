@@ -1,0 +1,99 @@
+body{
+  background-color:greenyellow;
+  justify-content: center;
+  margin: 0px;
+  padding:0px;
+}
+
+nav{
+  margin: 12px;
+  display: flex;
+  background: radial-gradient(aqua, blue);
+  color:;
+}
+h1{
+  color: black;
+}
+a{
+  color: aliceblue;
+}
+.maximo{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contenedor1{
+  background: radial-gradient(aqua, blue);
+  width: 400px;
+  height: 74vh;
+  margin: auto;
+  border: solid 2px black;
+}
+
+.contenedor2{
+  background: radial-gradient(gold, orange);
+  width: 400px;
+  height: 74vh;
+  margin: auto;
+  border: solid 2px black;
+}
+.contenedor3{
+  /*background: radial-gradient(pink, red);*/
+  width: 400px;
+  height: 74vh;
+  margin: auto;
+  border: solid 2px black;
+}
+.contenedor4{
+  /*background: radial-gradient(pink, red);*/
+  width: 700px;
+  height: 74vh;
+  margin: auto;
+  border: solid 2px black;
+}
+.contenedorB{
+  background: radial-gradient(pink, red);
+  width: 400px;
+  height: 74vh;
+  margin: auto;
+  border: solid 2px black;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.btn-volver{
+  width: 360px;
+  height: 67vh;
+  border: solid 2px black 20%;
+  background:radial-gradient(gold,orange);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: aliceblue;
+}
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 4000;
+  font-style: normal;
+  font-size: 40px;
+  background: linear-gradient(red,gold, greenyellow);
+}
+.anton-regular-barra {
+  font-family: "Anton", sans-serif;
+  font-weight: 4000;
+  font-style: normal;
+  font-size: 40px;
+  color: aliceblue;
+  
+}
+.anton-regular-boton {
+  font-family: "Anton", sans-serif;
+  font-weight: 4000;
+  font-style: normal;
+  font-size: 40px;
+  color: white;
+  background:radial-gradient(aqua,navy) ;
+}
+
